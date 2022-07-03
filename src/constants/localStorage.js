@@ -1,0 +1,1 @@
+export const LS_ACCESS_TOKEN = "FORUM_ACCESS_TOKEN";
